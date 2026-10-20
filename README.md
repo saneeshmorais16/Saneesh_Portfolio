@@ -2,12 +2,12 @@
 
 Welcome to my portfolio repository!  
 
-I am a Computing with AI student passionate about AI, machine learning, and data analysis.
+I am a Computing with AI graduate passionate about AI, machine learning, and data analysis.
 
 ## Live Portfolio
 
 Check out my live portfolio here:  
-[https://saneeshmorais16.github.io/saneesh_portfolio/](https://saneeshmorais16.github.io/saneesh_portfolio/)
+[https://saneeshmorais16.github.io/Saneesh_Portfolio_16/](https://saneeshmorais16.github.io/Saneesh_Portfolio_16/)
 
 ## About Me
 
